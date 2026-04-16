@@ -18,7 +18,7 @@ app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'src', 'views'));
 
 // Ruta de prueba inicial
-app.get('/', router);
+app.use('/', router);
 
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`);
