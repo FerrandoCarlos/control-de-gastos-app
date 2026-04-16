@@ -1,5 +1,5 @@
 {
-	"name": "codigo",
+	"name": "Control de Gastos",
 	"version": "1.0.0",
 	"description": "Proyecto de control de gastos",
 	"main": "app.js",
@@ -10,7 +10,11 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "MiloDev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FerrandoCarlos/control-de-gastos-app.git"
+	},
 	"license": "ISC",
 	"dependencies": {
 		"dotenv": "^17.4.2",
