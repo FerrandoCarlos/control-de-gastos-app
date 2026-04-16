@@ -13,3 +13,4 @@ router.get('/categorias', (req, res) => {
     res.render('categorias');
 });
 
+export default router;
