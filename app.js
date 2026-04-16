@@ -19,7 +19,7 @@ app.set('views', path.join(__dirname, 'src', 'views'));
 // Ruta de prueba inicial
 app.get('/', (req, res) => {
     res.render('index', {
-        title: 'Control de Gastos'
+        title: 'Inicio | Control de Gastos'
     });
 });
 
