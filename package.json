@@ -1,0 +1,20 @@
+{
+	"name": "codigo",
+	"version": "1.0.0",
+	"description": "Proyecto de control de gastos",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"start": "node app.js",
+		"dev": "node --watch app.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^17.4.2",
+		"express": "^5.2.1",
+		"pug": "^3.0.4"
+	}
+}

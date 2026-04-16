@@ -1,0 +1,10 @@
+# Dependencias
+node_modules/
+dist/
+.vscode/
+# Variables de entorno (¡Muy importante por seguridad!)
+.env
+
+# Logs y archivos temporales
+npm-debug.log*
+.DS_Store
