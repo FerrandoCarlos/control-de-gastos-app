@@ -1,7 +1,7 @@
 {
-	"name": "Control de Gastos",
+	"name": "control-gastos",
 	"version": "1.0.0",
-	"description": "Proyecto de control de gastos",
+	"description": "Proyecto piloto de control de gastos",
 	"main": "app.js",
 	"type": "module",
 	"scripts": {
